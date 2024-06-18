@@ -96,5 +96,5 @@ PPT 제작 | 스타일 가이드, 시스템 가이드 페이지
 불가능 하다고 생각한 것도 하다보면 어느 순간엔 가능으로 바뀌어 있을 것 이다.
 
 ### <a href="https://www.canva.com/design/DAGBPkPCVQc/PtA9s4UOYO5gvUKr-kuKfQ/edit" target="_blank">발표자료 바로가기</a>
-### <a href="https://www.figma.com/proto/TmrVJW2MRKATglY1D6wMZn/%EC%84%B8%EC%A7%84%EB%B8%8C%EB%A1%A0%EC%A6%88%EB%B9%8C_%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85?node-id=1-218&t=BXAAKuyfneeSNhXs-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1" target="_blank">피그마 프로토타입 바로가기</a>
+### <a href="https://www.figma.com/proto/TmrVJW2MRKATglY1D6wMZn/%EC%84%B8%EC%A7%84%EB%B8%8C%EB%A1%A0%EC%A6%88%EB%B9%8C_%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85?node-id=1-940&t=3ZA3bHbDucwkX52R-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1" target="_blank">피그마 프로토타입 바로가기</a>
 
